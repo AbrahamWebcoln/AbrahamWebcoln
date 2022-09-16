@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbrahamWebcoln
-- 👀 I love mountain biking, and I have the bumps and bruises to show for it!
+- ![image](https://user-images.githubusercontent.com/22139030/190550836-261aa535-c20f-43de-8725-a4e5b83aff7a.png) I love mountain biking, and I have the bumps and bruises to show for it!
 - 🌱 I’m an experienced Drupal developer that likes to tinker with things :)
 
 - 📫 How to reach me: abraham@abaracus.com
